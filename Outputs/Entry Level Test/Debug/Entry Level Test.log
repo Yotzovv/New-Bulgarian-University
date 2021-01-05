@@ -1,0 +1,4 @@
+﻿  Entry Level Test.cpp
+C:\Users\asd\source\repos\New Bulgarian University\Entry Level Test\Entry Level Test.cpp(13,1): warning C4273: 'round': inconsistent dll linkage
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(533,44): message : see previous definition of 'round'
+  Entry Level Test.vcxproj -> C:\Users\asd\source\repos\New Bulgarian University\Debug\Entry Level Test.exe

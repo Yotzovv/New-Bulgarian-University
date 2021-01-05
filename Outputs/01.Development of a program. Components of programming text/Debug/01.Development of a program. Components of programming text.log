@@ -1,0 +1,2 @@
+﻿Task 2.obj : error LNK2005: _main already defined in Task 1.obj
+C:\Users\asd\source\repos\New Bulgarian University\Debug\01.Development of a program. Components of programming text.exe : fatal error LNK1169: one or more multiply defined symbols found
