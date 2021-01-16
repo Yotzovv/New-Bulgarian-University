@@ -1,6 +1,6 @@
 #pragma once
-#ifndef FUNCTIONS_H
-#define FUNCTION_H
+#ifndef COMMON_FUNCTIONS_H
+#define COMMON_FUNCTION_H
 
 //Prints 2 dimensional array
 void print2DArray(int* arr, int rows, int n);

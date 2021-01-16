@@ -1,6 +1,6 @@
-//Задача 2.Да се дефинира функция на С++ зазапълване на двумерен масивпозададено от потребителя множество от стойности на функция.
+//Задача 2.Да се дефинира функция на С++ зазапълване на двумерен масив по зададено от потребителя множество от стойности на функция.
 #include <iostream>
-#include "functions.h"
+#include "common_functions.h"
 
 using namespace std;
 
@@ -17,6 +17,5 @@ int main()
 	int* arr = define2DArray(rows, cols);
 
 	print2DArray(arr, rows, cols);
-
 
 }

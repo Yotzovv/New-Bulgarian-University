@@ -3,35 +3,9 @@
 //зададеното от потребителя множество.
 
 #include <iostream>
+#include "common_functions.h"
 
 using namespace std;
-
-int* InputArray(int sizeofarray)
-{
-	int* arr = new int[sizeofarray];
-
-	cout << "Elements: ";
-	for (int i = 0; i < sizeofarray; ++i)
-	{
-		cin >> arr[i];
-	}
-
-	cout << endl;
-
-	return arr;
-}
-
-int CalculateFactoriel(int arrLength)
-{
-	int factoriel = 1;
-
-	for (int i = 1; i <= arrLength; i++)
-	{
-		factoriel *= i;
-	}
-
-	return factoriel;
-}
 
 int main()
 {

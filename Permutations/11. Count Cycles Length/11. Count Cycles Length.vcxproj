@@ -140,6 +140,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="11. Count Cycles Length.cpp" />
+    <ClCompile Include="common_functions.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="common_functions.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

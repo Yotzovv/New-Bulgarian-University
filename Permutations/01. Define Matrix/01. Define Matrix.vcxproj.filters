@@ -18,12 +18,12 @@
     <ClCompile Include="StartUp.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="matrix.cpp">
+    <ClCompile Include="matrix_functions.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="matrix.h">
+    <ClInclude Include="matrix_functions.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

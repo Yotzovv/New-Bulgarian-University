@@ -18,5 +18,13 @@
     <ClCompile Include="06. Find Count of Permutation.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="common_functions.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="common_functions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
